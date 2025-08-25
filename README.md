@@ -34,5 +34,3 @@ g++ calendar.cpp -o calendar
 4. Use the menu to explore different features.
 
 
-Author
-Hayat Ansar
