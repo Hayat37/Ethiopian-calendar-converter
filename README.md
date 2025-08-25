@@ -26,18 +26,13 @@ git clone git@github.com:Hayat37/Ethiopian-calendar-converter.git
 cd Ethiopian-calendar-converter
 
 2. Compile the program:
-
-
-
 g++ calendar.cpp -o calendar
 
 3. Run the program:
-
-
-
 ./calendar
 
 4. Use the menu to explore different features.
-Author
 
+
+Author
 Hayat Ansar
